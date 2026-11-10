@@ -1,4 +1,4 @@
-# glimind-com
+# Glimind
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,122 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-glimind-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://glimind.com/
+Glimind provides a neutral reliability layer for AI agents, offering a cross‑ecosystem oracle that reports whether any tool is operational in real time. It supplies an MCP server, REST endpoints, and SDKs so agents can query tool health, obtain call recipes, expected outputs, and fallback options, enhancing robust autonomous workflows.
+
+**Areas:** AI · Reliability · MCP · Tools · Platform
+
+## Glimind on APIs.io
+
+Everything profiled for Glimind is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/glimind-com/](https://apis.io/providers/glimind-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [Glimind Alternatives API](https://apis.io/apis/glimind-com/glimind-com-alternatives-api/) — The Alternatives API from Glimind — 1 operation(s) for alternatives.
+- [Glimind Breakages API](https://apis.io/apis/glimind-com/glimind-com-breakages-api/) — The Breakages API from Glimind — 1 operation(s) for breakages.
+- [Glimind Health API](https://apis.io/apis/glimind-com/glimind-com-health-api/) — The Health API from Glimind — 1 operation(s) for health.
+- [Glimind Ingest API](https://apis.io/apis/glimind-com/glimind-com-ingest-api/) — The Ingest API from Glimind — 1 operation(s) for ingest.
+- [Glimind Keys API](https://apis.io/apis/glimind-com/glimind-com-keys-api/) — The Keys API from Glimind — 1 operation(s) for keys.
+- [Glimind Ping API](https://apis.io/apis/glimind-com/glimind-com-ping-api/) — The Ping API from Glimind — 1 operation(s) for ping.
+- [Glimind Reliability API](https://apis.io/apis/glimind-com/glimind-com-reliability-api/) — The Reliability API from Glimind — 2 operation(s) for reliability.
+- [Glimind Report API](https://apis.io/apis/glimind-com/glimind-com-report-api/) — The Report API from Glimind — 1 operation(s) for report.
+- [Glimind Route API](https://apis.io/apis/glimind-com/glimind-com-route-api/) — The Route API from Glimind — 1 operation(s) for route.
+- [Glimind Score API](https://apis.io/apis/glimind-com/glimind-com-score-api/) — The Score API from Glimind — 1 operation(s) for score.
+- [Glimind Search API](https://apis.io/apis/glimind-com/glimind-com-search-api/) — The Search API from Glimind — 1 operation(s) for search.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Glimind Agentic Access](https://apis.io/agentic-access/glimind-com/glimind-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Glimind API Rules](https://apis.io/rules/glimind-com/glimind-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Glimind Domain Security](https://apis.io/security/glimind-com/glimind-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Glimind Plans Pricing](https://apis.io/plans/glimind-com/glimind-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://glimind.com/)
+- [Documentation](https://glimind.com/docs)
+- [API reference](https://glimind.com/llms.txt)
+- [Pricing](https://glimind.com/pricing)
+- [Security](https://glimind.com/best/security)
+- [Terms of service](https://glimind.com/terms)
+- [Privacy policy](https://glimind.com/privacy)
+- [GitHub](https://github.com/glimind)
+- [Status](https://glimind.com/status)
+
+## API Evangelist rating
+
+**Kin Score 46.5** — developing · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 39.4 |
+| Contract governance | 65.5 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 60.0 |
+
+**Agent readiness 51.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/glimind-com/](https://apis.io/providers/glimind-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Glimind: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/glimind-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
